@@ -4,7 +4,7 @@ WINDOWS ONLY
 ![изображение](https://user-images.githubusercontent.com/73601154/145251434-832a520a-e798-4316-b4d8-8384ee1b0330.png)
 
 RELEASE РЕЛИЗ СКАЧАТЬ DOWNLOAD NOW БЕЗ РЕГИСТРАЦИИ И СМС
-https://github.com/Lavshyak/NetOnOff/releases/tag/untagged-dc4ff57528350d456680
+https://github.com/Lavshyak/NetOnOff/releases/tag/publish2
 
 
 
