@@ -1,6 +1,10 @@
 # NetOnOff
 ![изображение](https://user-images.githubusercontent.com/73601154/145251434-832a520a-e798-4316-b4d8-8384ee1b0330.png)
 
+RELEASE РЕЛИЗ
+https://github.com/Lavshyak/NetOnOff/releases/tag/publish
+
+
 
 .Net 6 required!!! ДОТНЕТ 6 НУЖЕН (по приколу писал в питухонском стиле)!!! https://dotnet.microsoft.com/download/dotnet/6.0 - вроде тут качать
 
