@@ -21,9 +21,9 @@
 
 
 .Net 6 is required !!! DOT 6 NEEDS (for fun I wrote in Pitukhonsky style) !!! https://dotnet.microsoft.com/download/dotnet/6.0 - like download here
+
+
 All in all.
-
-
 This is a portable program.
 Those. you throw it into a folder (in the release archive it is already in the folder, you just need to pull it out of the archive). you create a shortcut on exe this program and throw it into the panel where the start is.
 
