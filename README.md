@@ -1,4 +1,5 @@
 # NetOnOff
+![изображение](https://user-images.githubusercontent.com/73601154/145251434-832a520a-e798-4316-b4d8-8384ee1b0330.png)
 
 .Net 6 required!!! ДОТНЕТ 6 НУЖЕН (по приколу писал в питухонском стиле)!!! https://dotnet.microsoft.com/download/dotnet/6.0 - вроде тут качать
 В общем.
@@ -21,3 +22,4 @@ At the first start, you will enter the namelogpass from the connection (if any),
 Well, that's better. The Internet is turned on if you press the shortcut - it turns off. if the Internet is disabled, you click on the shortcut - it turns on.
 
 The advantage over .bat is that a shortcut can be added to the launch panel and does not check the ping for 500,000,000 years before writing that the Internet will not turn on, everything is instant. 
+
