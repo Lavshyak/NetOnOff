@@ -11,7 +11,7 @@ https://github.com/Lavshyak/NetOnOff/releases/tag/publish2
 
 
 
-.Net 6 required!!! ДОТНЕТ 6 НУЖЕН (по приколу писал в питухонском стиле)!!! https://dotnet.microsoft.com/download/dotnet/6.0 - вроде тут качать
+.Net 6 required!!! ДОТНЕТ 6 НУЖЕН!!! https://dotnet.microsoft.com/download/dotnet/6.0 - вроде тут качать
 
 
 В общем.
